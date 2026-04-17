@@ -1,9 +1,14 @@
 # Chest-X-ray-Disease-Classification-using-Deep-Learning
 The project titled “Chest X-Ray Classification using Deep Learning and Machine Learning Techniques” focuses on developing an accurate and efficient system for detecting lung diseases, particularly pneumonia, from chest X-ray images. This project integrates both deep learning models and machine learning approaches to improve diagnostic performance and reliability.
 
-The first part of the project, implemented in the chest X-ray notebook, focuses on building a deep learning model for detecting pneumonia from X-ray images. A convolutional neural network (CNN) is used due to its strong ability to extract spatial and hierarchical features from image data.CNN is a deep learning model mainly used for image processing tasks.It automatically extracts features using convolution and pooling layers.It is widely used for classification, detection, and computer vision applications.
+A convolutional neural network (CNN) is used due to its strong ability to extract spatial and hierarchical features from image data.CNN is a deep learning model mainly used for image processing tasks.It automatically extracts features using convolution and pooling layers.It is widely used for classification, detection, and computer vision applications.
 
 PCA is a dimensionality reduction technique used to simplify large datasets.It transforms features into a new set of uncorrelated variables called principal components.It helps improve model performance and reduces computational complexity.
+
+XGBoost is an advanced ensemble learning algorithm based on gradient boosting. It builds multiple decision trees to improve prediction 
+accuracy. It is widely used for structured data and high-performance models.
+
+VGG16 is a deep convolutional neural network used for image classification tasks. It consists of 16 layers and is known for its simplicity and strong performance. It is widely used for feature extraction in transfer learning.
 
 <img width="1489" height="784" alt="image" src="https://github.com/user-attachments/assets/e502f451-00b6-4afa-9991-39d9f5a7660b" />
 
